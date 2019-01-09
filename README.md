@@ -4,10 +4,14 @@
 Program Overview: This three day hands-on course by the Global Tax Team of the World Bank and presents practical tools useful in country analysis to help World Bank staff better assess a country’s taxation policies. Participants will be taught to analyze the impact of tax policies on revenue collection, efficiency, and its distributional impact. The course is designed as a series of modules that build on each other and cover all the major types of direct income and indirect taxes. Class size will be kept small and the content is tailored to fit participants’/regional interests. The course instructors are drawn from the World Bank’s tax experts, and invited external tax economists.
  
 Learning Objectives: This training course is designed to help World Bank staff refresh their command of tax policy-related concepts, analytical tools and cross country lessons on Taxation.  The hands-on-sessions on major taxes and analytical methodologies will ensure that they can apply what is learnt in their work.  The course will in particular support World Bank staff to: - 
-•	Apply the key definitions, principles, analytical models, and available cross-country tax databases in analyzing their country’s tax issues and readily incorporate it in their core work programs (e.g., preparation of the Macro Framework, Economic updates, Public Expenditure Reviews (PERs), and design of revenue pillars in DPLs). 
-•	Effectively engage in country dialogues on reviewing the settings and performance of the existing tax regimes and helping the governments to identify potential areas for tax reforms.
-•	Participate in comprehensive country case studies, possibly with fellow tax experts to analyze taxation-related challenges and conduct appropriate technical diagnostics under the guidance of experienced counselors.
-•	Network with peers globally.
+
+Apply the key definitions, principles, analytical models, and available cross-country tax databases in analyzing their country’s tax issues and readily incorporate it in their core work programs (e.g., preparation of the Macro Framework, Economic updates, Public Expenditure Reviews (PERs), and design of revenue pillars in DPLs). 
+
+Effectively engage in country dialogues on reviewing the settings and performance of the existing tax regimes and helping the governments to identify potential areas for tax reforms.
+
+Participate in comprehensive country case studies, possibly with fellow tax experts to analyze taxation-related challenges and conduct appropriate technical diagnostics under the guidance of experienced counselors.
+
+Network with peers globally.
 
 Intended Audience: The course aims to support the specific needs for economists who carry out analytical work, prepare, and supervise lending operations with a component on revenue mobilization.   It is ideal for World Bank staff to provide evidence-based advice on tax policies, especially to Ministries of Finance and Economic Planning in governments, at both national and subnational levels.
     
